@@ -4,7 +4,7 @@
 </head>
 <body>
 <form>
-    <form action="" method="post">
+    <form action="one.php" method="post">
         <input type="numer" name="poczatek">
         <br>
         <input type="number" name="koniec">
