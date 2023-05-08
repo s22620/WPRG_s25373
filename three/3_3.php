@@ -164,7 +164,6 @@ if($shouldSave != null && $name != null && $surname != null && $numOfPpl != null
 }
 
 
-
 ?>
 </body>
 </html>
