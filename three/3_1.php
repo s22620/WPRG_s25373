@@ -12,7 +12,7 @@
     <input type="submit" value="Modulo" name="mod">
 </FORM>
 <?php
-include "3.1_functions.php";
+include "3_1_functions.php";
 
 $number_a = $_GET['a'];
 $number_b = $_GET['b'];
